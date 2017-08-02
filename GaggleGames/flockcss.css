@@ -1,0 +1,205 @@
+body {
+    background-color: white;
+    font-size: 18px;
+    font-family: lucida sans unicode;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 36px;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.container {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+}
+
+div.footer {
+    text-align: center;
+    background-color: darkblue;
+    color: lawngreen;
+    padding: 1%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+div.flock {
+    background-color: ghostwhite;
+    padding: 1% 2% 1% 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+p.p1 {
+    color: black;
+    text-align: justify;
+}
+
+p.intro {
+    color: black;
+    padding: 3%;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav {
+    background-color: lawngreen;
+    padding: 1%;
+    text-align: center;
+}
+
+nav a {
+    padding: 5%;
+    font-size: 24px;
+    text-align: center;
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+}
+h1 {
+    color: lawngreen;
+    text-align: center;
+    font-size: 48px
+}
+
+
+div.header {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+div.hero {
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+div.personality {
+    background-color: ghostwhite;
+}
+
+div.interest {
+    background-color: ghostwhite;
+}
+
+div.bird {
+    content: 'center';
+    text-align: center;
+}
+
+div.celebrities {
+    background-color: ghostwhite;
+}
+
+div.quotes {
+    background-color: ghostwhite;
+}
+
+img.pics {
+    height: 200px;
+    width: 200px;
+}
+
+ul {
+    list-style: none;
+}
+
+button.mainbtn {
+    background-color: lawngreen;
+    color: darkblue;
+    font-size: 24px;
+    border-color: darkblue;
+    padding: 1%;
+}
+
+div.button {
+    text-align: center;
+}
+
+div.celebrities {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+div.personality {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+div.interest {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+div.quotes {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+div.description {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p.describe {
+    text-align: justify;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    color: lawngreen;
+    background-color: lawngreen;
+    width: 70%;
+}
+
+
+div.form {
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+input.btn {
+    background-color: lawngreen;
+    color: darkblue;
+    font-size: 18px;
+    border-color: darkblue;
+    padding: 1%;
+}
+
+div.row {
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: ghostwhite;
+    padding-left:2%;
+}
+
+div.col-md-12 {
+    text-align: left;
+}
+
+div.celebs {
+    text-align: justify;
+}
+
+form.contact {
+    text-align: center;
+}
+
+div.contact{
+    text-align: center;
+}

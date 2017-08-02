@@ -1,0 +1,48 @@
+h1 {
+    font-family: lucida sans unicode;
+    color: #808080;
+    size: 36px;
+}
+
+h2 {
+    font-family: lucida sans unicode;
+    color: darkgreen;
+    size: 24px;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    color: darkgray;
+    background-color: darkgray;
+}
+
+nav a {
+    font-family: lucida sans unicode;
+    color: blue;
+    font-size: 24px;
+    padding: 5%;
+}
+
+body {
+    font-family: lucida sans unicode;
+    color: #808080;
+    size: 12px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    text-align: left;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
